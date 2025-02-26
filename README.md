@@ -293,6 +293,7 @@ du /foo/bar            # List specified directory, subdirectories and file sizes
 du -h|--human-readable # List current directory, subdirectories and file sizes in a human readable format
 du -d|--max-depth      # List current directory, subdirectories and file sizes within the max depth
 du -d 0                # List current directory size
+ncdu                   # Tool to find the most used directories and files in a filesystem
 ```
 
 ## Memory Usage
